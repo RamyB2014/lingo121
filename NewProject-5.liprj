@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\admin\Documents\My Translated Projects\NewProject-5" SourceControlDatabase="C:\Users\admin\Documents\My Translated Projects\NewProject-5\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="de5449af-eb03-4301-956b-e5ca1f7b3c35">
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\admin\Documents\My Translated Projects\NewProject-5b" SourceControlDatabase="C:\Users\admin\Documents\My Translated Projects\NewProject-5b\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="de5449af-eb03-4301-956b-e5ca1f7b3c35">
     <ProjectFile Source="Target/ConditionsTest.flprj" Target="Target/ConditionsTest.flprj" />
 </LingoProject>
